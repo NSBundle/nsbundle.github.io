@@ -1,0 +1,329 @@
+Package: com.brunonfl.wifisshfordropbear
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Bruno Andrade <brubiluco@globo.com>
+Filename: ./debs/com.brunonfl.wifisshfordropbear_1.2_iphoneos-arm.deb
+Size: 1148
+MD5sum: c4fa5388dae2c4ece668dc8e896b28a6
+SHA1: f230915ce05b77d3247717d8d5b60d479cf0c2ff
+SHA256: 51d335a128bada9d9e743dfa5c835b34916f89f6ca658967bcdd18b89a091d22
+Section: System
+Description: Make SSH Great Again!
+Tag: role::hacker
+Author: Bruno Andrade <brubiluco@globo.com>
+Name: Wi-Fi SSH for Dropbear
+
+Package: com.lcampbell0x.dropbear
+Version: 1.0
+Architecture: iphoneos-arm
+Depends: firmware (>= 1.0)
+Filename: ./debs/Dropbear.deb
+Size: 1832962
+MD5sum: c8f4767f3ae14767eed689fdd5591995
+SHA1: 9fedce104ac61032ecd85f4a9cb9baa60c2b35f4
+SHA256: 5b1058f0b7c6a8cf3fd1aedf0b7a8dbf08266f9e6384a89c5581dd5b60b12549
+Section: System
+Description: Dropbear SSH for 32 and 64 bit devices. Use with an SSH tunnel to SSH via USB (Wi-Fi SSH is not enabled by default.)
+Name: Dropbear
+
+Package: com.muirey03.cr4shed
+Version: 4.1.4
+Architecture: iphoneos-arm
+Maintainer: Muirey03
+Installed-Size: 1668
+Depends: mobilesubstrate, com.muirey03.libmryipc, com.cokepokes.libnotifications (>= 0.2-2), cy+cpu.arm64 | cy+cpu.arm64e, firmware (>= 9.0), ws.hbang.common (>= 1.11)
+Filename: ./debs/com.muirey03.cr4shed_4.1.4_iphoneos-arm.deb
+Size: 191196
+MD5sum: fc242f81f0fb1fb5c2223ccac3e549b4
+SHA1: 627af47bce911ad89a87693c3716f422ddeaf000
+SHA256: c2534eeaaee2fbdadd0f09adc1f8eb41d96bedf2dd38b3a2e9ae0f72b78a1a06
+Section: Tweaks
+Description: A modern crash reporter for iOS
+Author: Muirey03
+Name: Cr4shed
+
+Package: com.nscake.nossl
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 232
+Depends: mobilesubstrate
+Filename: ./debs/com.nscake.nossl_0.0.1.deb
+Size: 7936
+MD5sum: fe423b1e2828a72d56937caf7ba0e434
+SHA1: d8e466413ffc8647d4dc15f153d6c1b8a75cf1bc
+SHA256: d49a864c8a281fdf723d2fde4d8f2a106d8078a5fdd26728fcd1000309ab609b
+Section: Tweaks
+Description: Disable SSL cert pinning
+Author: Tanner Bennett <thepantsthief@me.com>
+Name: NoSSL
+
+Package: com.nscake.photos.fixphotos
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.nscake.photos.fixphotos_1.0.1.deb
+Size: 7800
+MD5sum: f6294ac49fb1eb7e5b6a46b69f5d16d2
+SHA1: a58ae24c847b30c2575f6aa5e3c43dfdad6edbbb
+SHA256: dc20daa33a732379864c0ccabc1507dcb6ff0fbfb9de260f991d5295b4d27ba2
+Section: Tweaks
+Description: Various tweaks for the iOS 13 Photos app.
+Author: Tanner Bennett <thepantsthief@me.com>
+Name: FixPhotos
+
+Package: com.nscake.photos.noscreenshots
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.nscake.photos.noscreenshots_1.0.0.deb
+Size: 8120
+MD5sum: 2f5a7684dbe9180339e2ccad0b9c3e89
+SHA1: 96d17cfae40abb4e719fefb93525148e3c819f18
+SHA256: a4a2b184e7dac994fdf9a31f3361cb02824c898f6ae6d1139106d73d7977dcac
+Section: Tweaks
+Description: Hides screenshots and screen recordings from the main Photos tab. Also makes the theater navigation bars hide instantly.
+Author: Tanner Bennett <thepantsthief@me.com>
+Name: NoScreenshots
+
+Package: com.nscake.thinkorswimconfirm
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/com.nscake.thinkorswimconfirm_0.0.1.deb
+Size: 7290
+MD5sum: 55f225e8dcf6a54a127b362fa50e6548
+SHA1: 7ab925960c37429129664c63d76e40eb4d79da63
+SHA256: 95349aa9bab8ea5d0459cc7fb55bbea5d94516328f384df1a64bfd951bd03d81
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Tanner Bennett <thepantsthief@me.com>
+Name: ThinkOrSwimConfirm
+
+Package: com.nsexceptional.darksct
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debs/com.nsexceptional.darksct_0.0.1.deb
+Size: 11364
+MD5sum: 02184f4b60c50163402b474269295fd1
+SHA1: 3ac45d601abf704bd00c5c094ac48fcf6c59b892
+SHA256: d861626bc49d2a4bce1ffce4caa8efcedd9845ba859ec3768f6acd1b62d183db
+Section: Tweaks
+Description: Dark mode and no Discover for Snapchat 10.60
+Author: Tanner Bennett <thepantsthief@me.com>
+Name: DarkSnapchat
+
+Package: com.nsexceptional.darksnapchat
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 180
+Depends: mobilesubstrate
+Filename: ./debs/com.nsexceptional.darksnapchat_0.0.1.deb
+Size: 9094
+MD5sum: 594dee32de40a3e620e77de96cce92ac
+SHA1: 26c6438245223b9d6a361defeac5c3a7bec1bb5b
+SHA256: 6a6f937c7ee5da8078071119b9cd997a06b3717d0588a765e13b5dba6b4d4efb
+Section: Tweaks
+Description: Dark mode and no Discover for Snapchat
+Author: Tanner Bennett <thepantsthief@me.com>
+Name: DarkSnapchat
+
+Package: com.nsexceptional.fix1password
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/com.nsexceptional.fix1password_0.0.1.deb
+Size: 4110
+MD5sum: a12440faa71bd4412a80992a82b2b855
+SHA1: 032f8c3cb1c7c488ec6c8df24fd3fd11cc31160e
+SHA256: c7d3f37964458771af3c6250d20789f5ef77254f5f0ceb536f4e11c81f745e6c
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Tanner Bennett <thepantsthief@me.com>
+Name: Fix1Password
+
+Package: com.pantsthief.bettergoogle
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 80
+Depends: mobilesubstrate
+Filename: ./debs/com.pantsthief.bettergoogle_0.0.1.deb
+Size: 7452
+MD5sum: eb3e4033c333fec2f5b1eacba73d269d
+SHA1: af7d9a0d8b0380fe0704ebf9fa4b45ce13c68c16
+SHA256: d9cd5d90c3ddc82526bb4a7659528bc07f51d32f1639dac3286934ff3c496a55
+Section: Tweaks
+Description: Activate the search field immediately in Google.app
+Author: Tanner Bennett <thepantsthief@me.com>
+Name: BetterGoogle
+
+Package: com.pantsthief.grandmaster
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett
+Installed-Size: 80
+Depends: mobilesubstrate
+Filename: ./debs/com.pantsthief.grandmaster_0.0.1.deb
+Size: 8886
+MD5sum: c2b6d7269255e58e3befaed204046652
+SHA1: e7e3e334569b8c587e75c3bb6dfc88487ef8b311
+SHA256: cb4e3e297ae096afc792a6f4f04b31ef7e854e600d51e96d13b758d99b109acd
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Tanner Bennett
+Name: Grandmaster
+
+Package: com.pantsthief.tbactionsheetstyle
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.pantsthief.tbactionsheetstyle_0.0.1.deb
+Size: 3314
+MD5sum: 2648d6527c4a45c034b57ebe3c9fae7b
+SHA1: d39d8f4022cdfb0655e2889fe700cde9ede2d4b0
+SHA256: 41cadc5e70458c7c39aad2733057a2a3cc481fa3bc895aa49fbc238d39bac61e
+Section: Tweaks
+Description: Joins the cancel button with the rest of the options in all action sheets.
+Author: Tanner Bennett
+Name: TBActionSheetStyle
+
+Package: com.pantsthief.tbcustommessages
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 76
+Depends: mobilesubstrate
+Filename: ./debs/com.pantsthief.tbcustommessages_0.0.1.deb
+Size: 4884
+MD5sum: 78719a6bb3c4dcf55fda1bf162faa48f
+SHA1: 6600a85a6a56370a2eedb9940dc1a37acecca402
+SHA256: e9b06a36667cc5f4dd47f378559435bda0d45d684412241e73df37cebed1f978
+Section: Tweaks
+Description: Tweaks for Messages.app
+Author: Tanner Bennett <thepantsthief@me.com>
+Name: TBCustomMessages
+
+Package: com.pantsthief.tbsfvceverywhere
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.pantsthief.tbsfvceverywhere_0.0.1.deb
+Size: 4596
+MD5sum: 88e87faf49974cf444c3fc0fafdb3bb3
+SHA1: d53fff3ec35c02037717c6bbef249d4d34e0b24d
+SHA256: 5479a52f7aaa73cca2539f6c8a62dac04f159503f88ec8929a81d524fc939223
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Tanner Bennett <thepantsthief@me.com>
+Name: TBSFVCEverywhere
+
+Package: com.pantsthief.tbtweaks11
+Version: 13.4
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett
+Installed-Size: 148
+Depends: mobilesubstrate
+Filename: ./debs/com.pantsthief.tbtweaks11_13.4.deb
+Size: 10388
+MD5sum: 49f79d8779a85c574bfacf25f1264ef3
+SHA1: bad71c72edec8943844253cad22d231c4d283398
+SHA256: 6faafa07e963074e60dbffb89ca8710367a0fe59f03a7da01917b12b58dbe155
+Section: Tweaks
+Description: Various SpringBoard tweaks for iOS 11+
+Author: Tanner Bennett
+Name: TBTweaks11
+
+Package: com.pantsthief.tbtweaks11
+Version: 14.0
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 148
+Pre-Depends: firmware (>= 11.0)
+Depends: mobilesubstrate
+Filename: ./debs/com.pantsthief.tbtweaks11_14.0.deb
+Size: 10608
+MD5sum: 5afb1901b4882dfa5328b35257019138
+SHA1: 033d5d6f37c28f1d51639373d9f59eccf3b9d1c9
+SHA256: 90dd8c54783d908bba603eecb3dfb96dd0bcaec26638d1572bf740ea1b4c5bc2
+Section: Tweaks
+Description: Various SpringBoard tweaks for iOS 11+
+Author: Tanner Bennett <thepantsthief@me.com>
+Name: TBTweaks11
+
+Package: org.coolstar.scp-sftp-dropbear
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Depends: openssl
+Conflicts: openssh
+Filename: ./debs/scp-sftp-dropbear.deb
+Size: 196386
+MD5sum: 4221c938339c2e21cd4758e2b4a41212
+SHA1: d7675f2dc6ec58662e85da4a14b9ddf9db7cf312
+SHA256: 2a0253ba7e20ad7bd25f8304f500199bb549b7cbada7279c50aa684f613ecad4
+Section: System
+Description: Add SCP and SFTP for use with dropbear SSH server. (Useful with Yalu jailbreaks).
+Author: CoolStar <coolstarorganization@gmail.com>
+Name: SCP and SFTP for dropbear
+
+Package: ru.domo.cocoatop64
+Version: 2.0.2-1+debug
+Architecture: iphoneos-arm
+Maintainer: Domo
+Installed-Size: 742
+Conflicts: ru.domo.cocoatop
+Filename: ./debs/ru.domo.cocoatop64_2.0.2-1+debug_iphoneos-arm.deb
+Size: 151514
+MD5sum: c30794b242e73c924db279640dc6eee1
+SHA1: 2b6de3e669fb288c9369affae3c1285ca6899282
+SHA256: 143609060c4eb424d0c8fe580bc4eda62985e27e665ce91fb5e6d3034217d35e
+Section: Utilities
+Description: Process Viewer for iOS GUI (64-bit)
+Author: Domo
+Name: CocoaTop
+
+Package: xyz.tie1r.bc
+Version: 1.0.7
+Architecture: iphoneos-arm
+Maintainer: tie1r <tie1r@tie1r.xyz>
+Filename: ./debs/bc.deb
+Size: 46156
+MD5sum: b31e789dd4094738f8f627ea6ee49ffa
+SHA1: ad91f525d076f7e568aefea2d2719d9438ec89de
+SHA256: a14acc6b0d08a6bfe0023b9b6099960826eda6dbbabc2eee548c3129a381c38b
+Section: Utilities
+Description: bc is an arbitrary precision numeric processing language. Syntax is similar to C, but differs in many substantial areas. It supports interactive execution of statements. bc is a utility included in the POSIX P1003.2/D11 draft standard.
+Author: tie1r <tie1r@tie1r.xyz>
+Name: bc
+
+Package: xyz.tie1r.t3nbelow
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Depends: bc,shell-cmds
+Filename: ./debs/t3nbelow.deb
+Size: 340728
+MD5sum: e1599a47ee2d2b96f03f7765d8e34963
+SHA1: f231fd6cffe7672cf72f66a1ef61c97dda8bb4b0
+SHA256: f0690e1431aea07efdaa03213b278b3d1f96ba85ca6b0afd1e8b7a3d10c698d9
+Section: Utilities
+Description: Downgrade iOS 9.x/10.x to 8.4.1. Only Support iPhone 5, 4s, and iPod Touch 5g.
+Author: tie1r <tie1r@tie1r.xyz>
+Name: t3nbelow
+
