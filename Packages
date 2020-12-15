@@ -13,6 +13,23 @@ Tag: role::hacker
 Author: Bruno Andrade <brubiluco@globo.com>
 Name: Wi-Fi SSH for Dropbear
 
+Package: com.captinc.batchomatic
+Version: 4.4.0
+Architecture: iphoneos-arm
+Maintainer: Capt Inc <teamcaptinc@gmail.com>
+Installed-Size: 700
+Depends: firmware (>=11.0), mobilesubstrate, coreutils
+Filename: ./debs/com.captinc.batchomatic_4.4.0.deb
+Size: 97302
+MD5sum: b9c0d33a144272f8c0d6bdfdb214ac34
+SHA1: 7572cf35db207094e19dd722a3cd84c85a7e1234
+SHA256: 246c4ae89f474079f14598b1e60f6362edc54a931fc57285260c4584055f4dbe
+Section: Tweaks
+Description: Batch install your tweaks, repos, saved .debs, tweak preferences, and hosts file!
+Author: Capt Inc <teamcaptinc@gmail.com>
+Depiction: https://captinc.github.io/depictions/batchomatic/batchomatic.html
+Name: Batchomatic
+
 Package: com.lcampbell0x.dropbear
 Version: 1.0
 Architecture: iphoneos-arm
