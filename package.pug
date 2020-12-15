@@ -1,0 +1,33 @@
+//
+//  Package.pug
+//  nscake.github.io
+//  
+//  Created by Tanner Bennett on 2020-05-04
+//  Copyright © 2020 Tanner Bennett. All rights reserved.
+//
+
+doctype html
+html
+  head
+    title NSCake
+    meta(charset='utf-8')
+    script(src='js/depict.js')
+    link(rel='stylesheet' type='text/css' href='css/iPhone.css')
+
+  body.pinstripe: panel
+    .header
+      h1#tweak-name
+    
+    fieldset: div
+      p#depiction
+    
+    #dependencies
+      label Dependencies
+      fieldset: div
+        p#dependencies-list
+    
+    #changelog
+      label Changelog
+      fieldset: div
+        p#changelog-list
+

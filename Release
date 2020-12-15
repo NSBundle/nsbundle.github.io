@@ -1,0 +1,8 @@
+Origin: NSBundle 📦
+Label: NSBundle 📦
+Suite: stable
+Version: 1.0
+Codename: nsbundle-ios
+Architectures: iphoneos-arm
+Components: main
+Description: Personal tweaks by NSExceptional
