@@ -179,9 +179,9 @@ Installed-Size: 80
 Depends: mobilesubstrate
 Filename: ./debs/com.pantsthief.bettergoogle_0.0.1.deb
 Size: 7452
-MD5sum: eb3e4033c333fec2f5b1eacba73d269d
-SHA1: af7d9a0d8b0380fe0704ebf9fa4b45ce13c68c16
-SHA256: d9cd5d90c3ddc82526bb4a7659528bc07f51d32f1639dac3286934ff3c496a55
+MD5sum: 46341f8a496a983e0d681464a14ba8bb
+SHA1: f998c1f5a6e00fffc6b7055caab34aec687da15c
+SHA256: 6e4d9dfe39644eb8acfcf9e8f1cc108c94f8d51b5d298adbc76f277440d03fce
 Section: Tweaks
 Description: Activate the search field immediately in Google.app
 Author: Tanner Bennett <thepantsthief@me.com>
