@@ -320,6 +320,24 @@ Description: A library for Flipboard Explorer.
 Author: Tanner Bennett <thepantsthief@me.com>
 Name: libFLEX
 
+Package: libflex
+Version: 4.4.0+cake
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 2764
+Pre-Depends: firmware (>= 9.0)
+Filename: ./debs/libflex_4.4.0+cake.deb
+Size: 644920
+MD5sum: 8ef7a922be45a3d6a6fa5d26fd956b9d
+SHA1: 13de30c38b999b96de88858819c29a9ffb3b3421
+SHA256: 19588d65fafbeef306ef52f1854a6e7c623ce7dc0a1937744b2428697c04c877
+Section: Tweaks
+Description: A library for Flipboard Explorer.
+Author: Tanner Bennett <thepantsthief@me.com>
+Depiction: https://nsbundle.github.io/package.html?package=libflex
+Name: libFLEX
+Sileodepiction: https://nsbundle.github.io/depictions/libflex.sileo.json
+
 Package: org.coolstar.scp-sftp-dropbear
 Version: 1.0.2
 Architecture: iphoneos-arm
