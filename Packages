@@ -59,6 +59,53 @@ Description: A modern crash reporter for iOS
 Author: Muirey03
 Name: Cr4shed
 
+Package: com.nscake.fixexsto
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.nscake.fixexsto_0.0.1.deb
+Size: 3068
+MD5sum: 80883cb956a6a141a03192cd1cff681e
+SHA1: a6771f245aac53b3fe9fad2259204df407f7ba1b
+SHA256: 088e35de11e86c925e48cf9468b44c4f74bb5afc0f49d2d7fe317f9d1ff558d9
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Tanner Bennett <thepantsthief@me.com>
+Name: FixExsto
+
+Package: com.nscake.fixtwitter
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs/com.nscake.fixtwitter_0.0.1.deb
+Size: 3148
+MD5sum: 52265d87d5119dd558acc4b6b128107b
+SHA1: 9e60d66ae0f2c2563828647e3b8d985dd686de5a
+SHA256: 2c5ae1d768055fe69e35307c63091f34c6ca7be36101a99a3b4340da0e404dbf
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Tanner Bennett <thepantsthief@me.com>
+Name: FixTwitter
+
+Package: com.nscake.nogoodmorning
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 88
+Filename: ./debs/com.nscake.nogoodmorning_0.0.1.deb
+Size: 2512
+MD5sum: 3a4a60357aa5c7379878cfd2044d8783
+SHA1: e849acb8c03be667acdb9af74052c5f456af329e
+SHA256: ea576874aba939c7d923cc2b56d0b8d38aae45e8e0b9ca14183d1058a96f9166
+Section: Tweaks
+Description: An attempt to disable the Good Morning screen.
+Author: Tanner Bennett <thepantsthief@me.com>
+Name: NoGoodMorning
+
 Package: com.nscake.nossl
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -255,22 +302,6 @@ Description: Tweaks for Messages.app
 Author: Tanner Bennett <thepantsthief@me.com>
 Name: TBCustomMessages
 
-Package: com.pantsthief.tbsfvceverywhere
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: Tanner Bennett <thepantsthief@me.com>
-Installed-Size: 136
-Depends: mobilesubstrate
-Filename: ./debs/com.pantsthief.tbsfvceverywhere_0.0.1.deb
-Size: 4596
-MD5sum: 88e87faf49974cf444c3fc0fafdb3bb3
-SHA1: d53fff3ec35c02037717c6bbef249d4d34e0b24d
-SHA256: 5479a52f7aaa73cca2539f6c8a62dac04f159503f88ec8929a81d524fc939223
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: Tanner Bennett <thepantsthief@me.com>
-Name: TBSFVCEverywhere
-
 Package: com.pantsthief.tbtweaks11
 Version: 13.4
 Architecture: iphoneos-arm
@@ -337,6 +368,21 @@ Author: Tanner Bennett <thepantsthief@me.com>
 Depiction: https://nsbundle.github.io/package.html?package=libflex
 Name: libFLEX
 Sileodepiction: https://nsbundle.github.io/depictions/libflex.sileo.json
+
+Package: me.malstrom.safariinjector
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett
+Installed-Size: 172
+Filename: ./debs/me.malstrom.safariinjector_0.0.1.deb
+Size: 7780
+MD5sum: d1cf8522d2d62d2d9cfbdc65ac8a5ca7
+SHA1: 05689080f941d616181a33c58413029ffe72e8c0
+SHA256: 2b6ac31b43acd9cc41fcceb420ee123f2b1e063efcc9c6545ae54ca986d5e00a
+Section: Tweaks
+Description: Inject Safari View Controller into various apps.
+Author: Mark Malström
+Name: SafariInjector
 
 Package: org.coolstar.scp-sftp-dropbear
 Version: 1.0.2
