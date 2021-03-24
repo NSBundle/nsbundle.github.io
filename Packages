@@ -75,6 +75,21 @@ Description: An awesome MobileSubstrate tweak!
 Author: Tanner Bennett <thepantsthief@me.com>
 Name: FixExsto
 
+Package: com.nscake.fixstocks
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 168
+Filename: ./debs/com.nscake.fixstocks_0.0.1.deb
+Size: 3928
+MD5sum: 2766b9f0a4ad5d161079794d85849c70
+SHA1: d5d1f92abb52c86e5d1571d8f3a8dc7f871998f0
+SHA256: 0d9042f223ca0d516b147a6c38cce443be381d8fc34c36f077e5c800daf2a2f5
+Section: Tweaks
+Description: Show times in your time zone
+Author: Tanner Bennett <thepantsthief@me.com>
+Name: FixStocks
+
 Package: com.nscake.fixtwitter
 Version: 0.0.1
 Architecture: iphoneos-arm
