@@ -384,6 +384,24 @@ Depiction: https://nsbundle.github.io/package.html?package=libflex
 Name: libFLEX Boo
 Sileodepiction: https://nsbundle.github.io/depictions/libflex.sileo.json
 
+Package: libflexboo
+Version: 4.4.1
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 2792
+Pre-Depends: firmware (>= 9.0)
+Filename: ./debs/libflexboo_4.4.1.deb
+Size: 671250
+MD5sum: df4658f1b0c925f1c500d09e3ce3f4e2
+SHA1: 526f4ace102aeeab2f5003c43fed193d7eb6ba8c
+SHA256: 4a85357a2a7fecd784d491e8be6abd94592c0b7575e2976245a581b6fe9ff1a9
+Section: Tweaks
+Description: A library for Flipboard Explorer.
+Author: Tanner Bennett <thepantsthief@me.com>
+Depiction: https://nsbundle.github.io/package.html?package=libflex
+Name: libFLEX Boo
+Sileodepiction: https://nsbundle.github.io/depictions/libflex.sileo.json
+
 Package: me.malstrom.safariinjector
 Version: 0.0.1
 Architecture: iphoneos-arm
