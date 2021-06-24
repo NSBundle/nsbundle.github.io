@@ -397,6 +397,22 @@ Description: Tweaks for Messages.app
 Author: Tanner Bennett <thepantsthief@me.com>
 Name: TBCustomMessages
 
+Package: com.pantsthief.tbcustommessages
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 80
+Depends: mobilesubstrate
+Filename: ./debs/com.pantsthief.tbcustommessages_0.0.3.deb
+Size: 6558
+MD5sum: 4f19dd7312ce67c03c883f6ff0d4cbf0
+SHA1: 9a0eed498bd4feea78cbc312da82c94bf2c653e1
+SHA256: 4380d8e1180b58cf7041a9074fe520fb25682deff317636e718b13757c82d500
+Section: Tweaks
+Description: Tweaks for Messages.app
+Author: Tanner Bennett <thepantsthief@me.com>
+Name: TBCustomMessages
+
 Package: com.pantsthief.tbtweaks11
 Version: 13.4
 Architecture: iphoneos-arm
