@@ -59,6 +59,22 @@ Description: A modern crash reporter for iOS
 Author: Muirey03
 Name: Cr4shed
 
+Package: com.nscake.addtofolder
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 128
+Depends: com.rpetrich.rocketbootstrap (>= 1.0.2)
+Filename: ./debs/com.nscake.addtofolder_0.0.1.deb
+Size: 17394
+MD5sum: ee8f8d5b1be1a47ac507bb9719aa82be
+SHA1: 39ef765e353e386c1a5a034cc182278d85b2f8b8
+SHA256: dfad5e8bf6a6f991ea51b3958a23917c497057862f149f0645bac39c20a27b1e
+Section: Tweaks
+Description: Easily move apps to folders
+Author: Tanner Bennett <thepantsthief@me.com>
+Name: AddToFolder
+
 Package: com.nscake.fixexsto
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -137,6 +153,22 @@ Description: Disable SSL cert pinning
 Author: Tanner Bennett <thepantsthief@me.com>
 Name: NoSSL
 
+Package: com.nscake.nothingtoseehere
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debs/com.nscake.nothingtoseehere_0.0.3.deb
+Size: 5768
+MD5sum: 400ea45a7ebfce0def8fc66f88a47d9c
+SHA1: b33942db265b9b7ac12ecfa3f0d87bbb795014f6
+SHA256: b4931433df526a9402855484568632224806a41fdff3b4951678bd9562c0bcdd
+Section: Tweaks
+Description: Blur Discover tiles in Snapchat.
+Author: Tanner Bennett <thepantsthief@me.com>
+Name: SCNoClickbait
+
 Package: com.nscake.photos.fixphotos
 Version: 1.0.1
 Architecture: iphoneos-arm
@@ -182,6 +214,38 @@ SHA1: 7ab925960c37429129664c63d76e40eb4d79da63
 SHA256: 95349aa9bab8ea5d0459cc7fb55bbea5d94516328f384df1a64bfd951bd03d81
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
+Author: Tanner Bennett <thepantsthief@me.com>
+Name: ThinkOrSwimConfirm
+
+Package: com.nscake.thinkorswimconfirm
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 96
+Depends: mobilesubstrate
+Filename: ./debs/com.nscake.thinkorswimconfirm_0.0.2.deb
+Size: 5706
+MD5sum: 2233930b9785845336e659cdf0894a75
+SHA1: 98e12668928495d6a675ce9cae79650a126894d9
+SHA256: c7ee7dca16c3b5bb25beab6ca28268c3a3addd2c620af25becf6215a9332c367
+Section: Tweaks
+Description: Auto-confirm ThinkOrSwim confirmation dialogs
+Author: Tanner Bennett <thepantsthief@me.com>
+Name: ThinkOrSwimConfirm
+
+Package: com.nscake.thinkorswimconfirm
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 96
+Depends: mobilesubstrate
+Filename: ./debs/com.nscake.thinkorswimconfirm_0.0.3.deb
+Size: 5700
+MD5sum: 14a8bc2d39da6ae890c8e2179133a4e1
+SHA1: d02ce3f5e125bfb1a08dc378811e027f22b0b53e
+SHA256: 742892b50ab972ec04d8cd756187d4ffeef5ea8092582d348283fa8fa562b17f
+Section: Tweaks
+Description: Auto-confirm ThinkOrSwim confirmation dialogs
 Author: Tanner Bennett <thepantsthief@me.com>
 Name: ThinkOrSwimConfirm
 
