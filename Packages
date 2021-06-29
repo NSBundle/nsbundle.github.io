@@ -63,13 +63,13 @@ Package: com.nscake.addtofolder
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Tanner Bennett <thepantsthief@me.com>
-Installed-Size: 128
+Installed-Size: 240
 Depends: com.rpetrich.rocketbootstrap (>= 1.0.2)
 Filename: ./debs/com.nscake.addtofolder_0.0.1.deb
-Size: 17394
-MD5sum: ee8f8d5b1be1a47ac507bb9719aa82be
-SHA1: 39ef765e353e386c1a5a034cc182278d85b2f8b8
-SHA256: dfad5e8bf6a6f991ea51b3958a23917c497057862f149f0645bac39c20a27b1e
+Size: 22680
+MD5sum: 4468a28dae8b84350d38269d3280d4d9
+SHA1: 1955a437728c9a1b848f90d4c4451a06ee8956fb
+SHA256: 8465c1a1b4b589cbaf98cfe2b9f414596a886e143b40dce8ced9bcca08bdd09b
 Section: Tweaks
 Description: Easily move apps to folders
 Author: Tanner Bennett <thepantsthief@me.com>
@@ -110,13 +110,13 @@ Package: com.nscake.fixtwitter
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Tanner Bennett <thepantsthief@me.com>
-Installed-Size: 88
+Installed-Size: 168
 Depends: mobilesubstrate
 Filename: ./debs/com.nscake.fixtwitter_0.0.1.deb
-Size: 3148
-MD5sum: 52265d87d5119dd558acc4b6b128107b
-SHA1: 9e60d66ae0f2c2563828647e3b8d985dd686de5a
-SHA256: 2c5ae1d768055fe69e35307c63091f34c6ca7be36101a99a3b4340da0e404dbf
+Size: 4348
+MD5sum: ffb232a7f661fc125fef2ef911b2c818
+SHA1: 204dd8be8e9c6660f00fa709f647214350abbba3
+SHA256: 7fcc64378f526e5f2de292814f3703fe3f3d3dd12afc719a2c2efa7f0e73b220
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: Tanner Bennett <thepantsthief@me.com>
@@ -317,13 +317,13 @@ Package: com.pantsthief.bettergoogle
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Tanner Bennett <thepantsthief@me.com>
-Installed-Size: 80
+Installed-Size: 160
 Depends: mobilesubstrate
 Filename: ./debs/com.pantsthief.bettergoogle_0.0.1.deb
-Size: 7452
-MD5sum: 46341f8a496a983e0d681464a14ba8bb
-SHA1: f998c1f5a6e00fffc6b7055caab34aec687da15c
-SHA256: 6e4d9dfe39644eb8acfcf9e8f1cc108c94f8d51b5d298adbc76f277440d03fce
+Size: 10692
+MD5sum: 6f5308847ad30bfc4547ea0125143bb1
+SHA1: 1c507780aa6ad84ce81dca78cab13afba13e7320
+SHA256: c7dacc95443fbaee39d380ccb80f740ae600c8e4eb4ca322063958755c047967
 Section: Tweaks
 Description: Activate the search field immediately in Google.app
 Author: Tanner Bennett <thepantsthief@me.com>
@@ -349,36 +349,56 @@ Depiction: https://nscake.github.io/package.html?package=com.pantsthief.flexing
 Name: FLEXing
 Sileodepiction: https://nscake.github.io/depictions/com.pantsthief.flexing.sileo.json
 
+Package: com.pantsthief.flexing
+Version: 1.4.0+boo
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 288
+Pre-Depends: firmware (>= 8.0)
+Depends: libflex, libflexboo
+Conflicts: com.dgh0st.flexall, gg.gh0stbyte.flexivator, com.shmoopillic.flexible, applebetas.ios.tweak.devtools.flexgesture, com.creaturecoding.flexer, com.lacertosusrepo.flex4me, me.nepeta.flexxx, com.ipadkid.flexit, com.qiop1379.flexbar, com.leftyfl1p.reflex
+Filename: ./debs/com.pantsthief.flexing_1.4.0+boo.deb
+Size: 19972
+MD5sum: df83f8f1eef8f0a742f7ee2932296cec
+SHA1: d8a7508634de1d17e4d11f01a6151c3ccb310922
+SHA256: 9492ba4d8382387c1327a0306677a60dbc9adfc93b2fa152534ad6d9c18d9337
+Section: Tweaks
+Description: Open FLEX anywhere!
+Author: Tanner Bennett <thepantsthief@me.com>
+Depiction: https://nscake.github.io/package.html?package=com.pantsthief.flexing
+Name: FLEXing
+Sileodepiction: https://nscake.github.io/depictions/com.pantsthief.flexing.sileo.json
+
 Package: com.pantsthief.grandmaster
 Version: 0.0.1
 Architecture: iphoneos-arm
-Maintainer: Tanner Bennett
-Installed-Size: 80
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 160
 Depends: mobilesubstrate
 Filename: ./debs/com.pantsthief.grandmaster_0.0.1.deb
-Size: 8886
-MD5sum: c2b6d7269255e58e3befaed204046652
-SHA1: e7e3e334569b8c587e75c3bb6dfc88487ef8b311
-SHA256: cb4e3e297ae096afc792a6f4f04b31ef7e854e600d51e96d13b758d99b109acd
+Size: 14686
+MD5sum: ec31c6a3bc8b1e3f57c175291d96fd15
+SHA1: ad755ddb80d585e2fc5294f911426cdfb091e4bc
+SHA256: aec21405d2ea0f801da8e37c4449be6e0f5e259cd736bfbfce0444b4e2ff3a48
 Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: Tanner Bennett
+Description: Cheats for the Chess.com app
+Author: Tanner Bennett <thepantsthief@me.com>
 Name: Grandmaster
 
 Package: com.pantsthief.tbactionsheetstyle
 Version: 0.0.1
 Architecture: iphoneos-arm
-Maintainer: Tanner Bennett
-Installed-Size: 136
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 216
 Depends: mobilesubstrate
 Filename: ./debs/com.pantsthief.tbactionsheetstyle_0.0.1.deb
-Size: 3314
-MD5sum: 2648d6527c4a45c034b57ebe3c9fae7b
-SHA1: d39d8f4022cdfb0655e2889fe700cde9ede2d4b0
-SHA256: 41cadc5e70458c7c39aad2733057a2a3cc481fa3bc895aa49fbc238d39bac61e
+Size: 4832
+MD5sum: fe9e8ad5a691f73320c6fd66244aa6d8
+SHA1: e085b90f05051500866be452bbefcbe667d6cd14
+SHA256: b64ff0ee5375fd0568228134f5c425b5c10840d1b31346270774af57323ed673
 Section: Tweaks
 Description: Joins the cancel button with the rest of the options in all action sheets.
-Author: Tanner Bennett
+Author: Tanner Bennett <thepantsthief@me.com>
 Name: TBActionSheetStyle
 
 Package: com.pantsthief.tbcustommessages
@@ -417,13 +437,13 @@ Package: com.pantsthief.tbcustommessages
 Version: 0.0.3
 Architecture: iphoneos-arm
 Maintainer: Tanner Bennett <thepantsthief@me.com>
-Installed-Size: 80
+Installed-Size: 160
 Depends: mobilesubstrate
 Filename: ./debs/com.pantsthief.tbcustommessages_0.0.3.deb
-Size: 6558
-MD5sum: 4f19dd7312ce67c03c883f6ff0d4cbf0
-SHA1: 9a0eed498bd4feea78cbc312da82c94bf2c653e1
-SHA256: 4380d8e1180b58cf7041a9074fe520fb25682deff317636e718b13757c82d500
+Size: 9228
+MD5sum: 26138bc0de8367aa24f2e5c07972e7c1
+SHA1: 583b75d2eca99b288ce01284e1f65c3c53f837cd
+SHA256: 7e08759a68141939d3bdd085500204e08667ea290084441fdd525a08b0e9286e
 Section: Tweaks
 Description: Tweaks for Messages.app
 Author: Tanner Bennett <thepantsthief@me.com>
@@ -484,13 +504,13 @@ Package: libflexboo
 Version: 4.4.1
 Architecture: iphoneos-arm
 Maintainer: Tanner Bennett <thepantsthief@me.com>
-Installed-Size: 2792
+Installed-Size: 10644
 Pre-Depends: firmware (>= 9.0)
 Filename: ./debs/libflexboo_4.4.1.deb
-Size: 671250
-MD5sum: df4658f1b0c925f1c500d09e3ce3f4e2
-SHA1: 526f4ace102aeeab2f5003c43fed193d7eb6ba8c
-SHA256: 4a85357a2a7fecd784d491e8be6abd94592c0b7575e2976245a581b6fe9ff1a9
+Size: 2828030
+MD5sum: b7dbda7cafb50ba72674c7179523e58e
+SHA1: bf7610f7d2a4a37b587f75cbe5219934e9dda515
+SHA256: c397500a284adc34a214086019a8f76ee777873a926a8dba1eb0985b9b1b7f1b
 Section: Tweaks
 Description: A library for Flipboard Explorer.
 Author: Tanner Bennett <thepantsthief@me.com>
