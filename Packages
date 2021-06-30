@@ -205,15 +205,14 @@ Package: com.nscake.realbuttons
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Tanner Bennett <thepantsthief@me.com>
-Installed-Size: 92
-Depends: mobilesubstrate (>= 0.9.5000)
+Installed-Size: 172
 Filename: ./debs/com.nscake.realbuttons_0.0.1.deb
-Size: 7798
-MD5sum: 0aa5f2b17ce1948e16ba6528290b30f0
-SHA1: 62ae9bc9097b10a041b3f8cc89b75d476ed8901f
-SHA256: ad09a8c98a9e0f72c56883521725244dfc83c703707ab62e750e0f4ff5b3e8cc
+Size: 10256
+MD5sum: 5d6a40b9a0df3f53a84d6393def8240c
+SHA1: c3abf732728a1446ab91df183137c99886613762
+SHA256: 28593241e96e4ed5f8ee9326ee4624adf1f48c12e0d867214c50115221b63d95
 Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
+Description: Make bar buttons look tappable
 Author: Tanner Bennett <thepantsthief@me.com>
 Name: RealButtons
 
