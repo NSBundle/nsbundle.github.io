@@ -481,6 +481,24 @@ Description: Various SpringBoard tweaks for iOS 11+
 Author: Tanner Bennett <thepantsthief@me.com>
 Name: TBTweaks11
 
+Package: ldid
+Version: 2:2.1.4+16-1
+Architecture: iphoneos-arm
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 488
+Pre-Depends: dpkg (>= 1.14.25-8), libplist3
+Depends: libplist3, libssl1.1.1, dpkg (>= 1.18.25-9)
+Filename: ./debs/ldid_2_2.1.4.deb
+Size: 60636
+MD5sum: 2413a622282b2d28da7b22ff6173000e
+SHA1: cb83b207a63deff28200d38bf09620b5c7d61d6f
+SHA256: b2f85f28dcf22315b44b07c9acd79ef801ea464a5f3d22b4bc9a87a647379c92
+Section: Development
+Priority: optional
+Description: pseudo-codesign Mach-O files
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Name: Link Identity Editor
+
 Package: libflexboo
 Version: 4.4.0
 Architecture: iphoneos-arm
