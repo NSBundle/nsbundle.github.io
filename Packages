@@ -499,6 +499,24 @@ Description: pseudo-codesign Mach-O files
 Author: Jay Freeman (saurik) <saurik@saurik.com>
 Name: Link Identity Editor
 
+Package: libflex
+Version: 4.7.0~b2
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 11192
+Pre-Depends: firmware (>= 9.0)
+Filename: ./debs/libflex_4.7.0~b2.deb
+Size: 2949174
+MD5sum: 14aaef0df8260b6c6f8b788d398e09bd
+SHA1: 2c9c8c2ec2e8c237d97e47497562b488ed1551b7
+SHA256: 9e3bab433a2c91957b38a8b256b4f564347579ff21c68dcae56102e847df4187
+Section: Tweaks
+Description: A library for Flipboard Explorer.
+Author: Tanner Bennett <thepantsthief@me.com>
+Depiction: https://nscake.github.io/package.html?package=libflex
+Name: libFLEX
+Sileodepiction: https://nscake.github.io/depictions/libflex.sileo.json
+
 Package: libflexboo
 Version: 4.4.0
 Architecture: iphoneos-arm
